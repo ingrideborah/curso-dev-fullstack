@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(231, 231, 231);
+
+}
+h3{
+    color: rgb(17, 17, 17);
+} 
+
+.foto-principal{
+    width: 200px;
+}
+
+#titulo-principal{
+    color: rgb(28, 30, 65);
+}
+
+.foto-principal{
+    border: 2px solid #FFFFFF; /*shorthand*/
+    border-radius: 50%;
+    margin: 30px;
+    
